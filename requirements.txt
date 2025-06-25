@@ -1,0 +1,3 @@
+flask
+python-dotenv
+# Add your custom agents lib (if it's local or custom pip module)
